@@ -1,0 +1,6 @@
+c:\users\sotig\documents\visual studio 2015\Projects\FileSyncStorage\FileSyncStorage\bin\Debug\FileSyncStorage.exe.config
+c:\users\sotig\documents\visual studio 2015\Projects\FileSyncStorage\FileSyncStorage\bin\Debug\FileSyncStorage.exe
+c:\users\sotig\documents\visual studio 2015\Projects\FileSyncStorage\FileSyncStorage\bin\Debug\FileSyncStorage.pdb
+c:\users\sotig\documents\visual studio 2015\Projects\FileSyncStorage\FileSyncStorage\obj\Debug\FileSyncStorage.exe
+c:\users\sotig\documents\visual studio 2015\Projects\FileSyncStorage\FileSyncStorage\obj\Debug\FileSyncStorage.pdb
+c:\users\sotig\documents\visual studio 2015\Projects\FileSyncStorage\FileSyncStorage\obj\Debug\FileSyncStorage.csprojResolveAssemblyReference.cache

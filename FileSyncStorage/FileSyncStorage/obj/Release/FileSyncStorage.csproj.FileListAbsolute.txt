@@ -1,0 +1,9 @@
+C:\Users\sotig\Documents\Visual Studio 2015\Projects\FileSyncStorage\FileSyncStorage\obj\Release\FileSyncStorage.csproj.GenerateResource.Cache
+C:\Users\sotig\Documents\Visual Studio 2015\Projects\FileSyncStorage\FileSyncStorage\bin\Release\Newtonsoft.Json.dll
+C:\Users\sotig\Documents\Visual Studio 2015\Projects\FileSyncStorage\FileSyncStorage\bin\Release\FileSyncServer.exe.config
+C:\Users\sotig\Documents\Visual Studio 2015\Projects\FileSyncStorage\FileSyncStorage\obj\Release\FileSyncServer.Properties.Resources.resources
+C:\Users\sotig\Documents\Visual Studio 2015\Projects\FileSyncStorage\FileSyncStorage\bin\Release\FileSyncServer.exe
+C:\Users\sotig\Documents\Visual Studio 2015\Projects\FileSyncStorage\FileSyncStorage\bin\Release\FileSyncServer.pdb
+C:\Users\sotig\Documents\Visual Studio 2015\Projects\FileSyncStorage\FileSyncStorage\obj\Release\FileSyncServer.exe
+C:\Users\sotig\Documents\Visual Studio 2015\Projects\FileSyncStorage\FileSyncStorage\obj\Release\FileSyncServer.pdb
+C:\Users\sotig\Documents\Visual Studio 2015\Projects\FileSyncStorage\FileSyncStorage\obj\Release\FileSyncStorage.csprojResolveAssemblyReference.cache

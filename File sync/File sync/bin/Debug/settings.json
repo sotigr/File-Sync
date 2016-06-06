@@ -1,0 +1,6 @@
+{
+  "ServerIp": "192.168.1.5",
+  "ServerPortDelete": "3577",
+  "ServerPortSend": "3578",
+  "StartWithWindows": "False"
+}

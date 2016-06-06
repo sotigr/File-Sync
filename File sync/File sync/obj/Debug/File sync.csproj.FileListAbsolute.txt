@@ -1,0 +1,12 @@
+c:\users\sotig\documents\visual studio 2015\Projects\File sync\File sync\bin\Debug\File sync.exe.config
+c:\users\sotig\documents\visual studio 2015\Projects\File sync\File sync\bin\Debug\File sync.exe
+c:\users\sotig\documents\visual studio 2015\Projects\File sync\File sync\bin\Debug\File sync.pdb
+c:\users\sotig\documents\visual studio 2015\Projects\File sync\File sync\obj\Debug\File sync.csprojResolveAssemblyReference.cache
+c:\users\sotig\documents\visual studio 2015\Projects\File sync\File sync\obj\Debug\File_sync.Form1.resources
+c:\users\sotig\documents\visual studio 2015\Projects\File sync\File sync\obj\Debug\File_sync.Properties.Resources.resources
+c:\users\sotig\documents\visual studio 2015\Projects\File sync\File sync\obj\Debug\File sync.csproj.GenerateResource.Cache
+c:\users\sotig\documents\visual studio 2015\Projects\File sync\File sync\obj\Debug\File sync.exe
+c:\users\sotig\documents\visual studio 2015\Projects\File sync\File sync\obj\Debug\File sync.pdb
+c:\users\sotig\documents\visual studio 2015\Projects\File sync\File sync\obj\Debug\File_sync.FilePrev.resources
+C:\Users\sotig\documents\visual studio 2015\Projects\File sync\File sync\obj\Debug\inputDialog.resources
+C:\Users\sotig\documents\visual studio 2015\Projects\File sync\File sync\obj\Debug\inputDialogBrowse.resources
