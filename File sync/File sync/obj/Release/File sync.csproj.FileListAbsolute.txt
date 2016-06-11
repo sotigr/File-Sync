@@ -5,3 +5,4 @@ C:\Users\sotig\documents\visual studio 2015\Projects\File sync\File sync\obj\Rel
 C:\Users\sotig\documents\visual studio 2015\Projects\File sync\File sync\obj\Release\inputDialogBrowse.resources
 C:\Users\sotig\documents\visual studio 2015\Projects\File sync\File sync\obj\Release\File_sync.Properties.Resources.resources
 C:\Users\sotig\documents\visual studio 2015\Projects\File sync\File sync\obj\Release\File sync.csproj.GenerateResource.Cache
+C:\Users\sotig\Documents\Visual Studio 2015\Projects\File sync\File sync\obj\Release\File sync.csprojResolveAssemblyReference.cache

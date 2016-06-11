@@ -27,7 +27,7 @@ namespace File_sync
         private static Dictionary<string, List<FileSystemWatcher>> watchers;
         public static Dictionary<string, string> changedDirectories = new Dictionary<string, string>();
         private static bool Syncing = false;
-        private static int filesync_interval = 50;
+        private static int filesync_interval = 16;
         public static event EventHandler<SyncProgressArgs> SyncProgress;
         public static event EventHandler<SyncStatusArgs> SyncStatus;
         public static bool NeedToSync = false;
@@ -180,8 +180,7 @@ namespace File_sync
         }
         static void sendFile(string filepath)
         { 
-            new System.Threading.Thread(() =>
-            {
+            
                 try
                 {
                     if (File.Exists(filepath))
@@ -192,20 +191,17 @@ namespace File_sync
                         }
                     }
                 }
-                catch (Exception ex) { }
-            }).Start();
+                catch (Exception ex) { } 
         }
         static void deleteFile(string filepath)
         { 
-            new System.Threading.Thread(() =>
-            {
+          
                 try
                 {
                     io.storage.DeleteFile(filepath.Remove(0, 3).Replace("\\\\", "\\"));
 
                 }
-                catch (Exception ex) { }
-            }).Start();
+                catch (Exception ex) { } 
         }
         private static void OnFileDeleted(object source, FileSystemEventArgs e)
         {
